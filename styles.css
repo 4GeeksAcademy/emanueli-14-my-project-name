@@ -1,0 +1,73 @@
+body {
+    background-color: gainsboro;
+
+
+}
+
+.titulo {
+    background-color: white;
+    text-align: center;
+
+
+
+
+}
+
+.contenedor {
+    background-color: white;
+    width: 400px;
+    height: auto;
+
+
+
+
+
+
+
+
+
+
+}
+
+img {
+
+    width: 100%;
+
+}
+
+.título-y-fecha {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+
+.comentario {
+    background-color: white;
+    border-color: grey;
+}
+
+.título-y-fecha2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.titulo-y-fecha3 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.titulo-y-fecha4 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
